@@ -1,0 +1,54 @@
+body { 
+  background-color: #efefef;
+  background: image_url('funky-lines.png');
+}
+
+h1 {
+  font-size: 46px;
+  font-family: 'Bitter', serif;
+  font-weight: 100;
+  
+}
+
+h3{
+  font-size: 24px;
+  font-family: 'Bitter', serif;
+  font-weight: 100;
+}
+
+.icebox {
+    -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
+    -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+    box-shadow: 1px 1px 2px 0 #d0d0d0;
+    background: #1f1f1f;
+    border: 2px solid #ccc;
+    border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+    margin: 100px 10% 15px 10%;
+    padding: 20px;
+    border-radius: 15px;
+    color: #f4a742;
+    text-align: center;
+}
+
+.button {
+    background-color: #f4a742; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.container {
+    background-color: #1f1f1f;
+}
+
+.navbar-brand {   
+    font-size: 20px;
+    font-family: 'Bitter', serif;
+    color: #f4a742;
+}
